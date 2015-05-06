@@ -48,13 +48,13 @@ if [ -z $TMUX_POWERLINE_RIGHT_STATUS_SEGMENTS ]; then
 		#"load 237 167" \
 		#"tmux_mem_cpu_load 234 136" \
                 "osx_cpu_temp 0 185" \
-		"battery 0 250" \
+		"battery 242 252" \
 		"weather 31 255" \
 		#"rainbarf 0 0" \
 		#"xkb_layout 125 117" \
 		#"date_day 235 136" \
 		#"date 235 136 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
-		"time 235 136 ${TMUX_POWERLINE_SEPARATOR_LEFT_BOLD}" \
+		"time 94 255 ${TMUX_POWERLINE_SEPARATOR_LEFT_BOLD}" \
 		#"utc_time 235 136 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 	)
 fi
